@@ -1,2 +1,5 @@
+﻿<<<<<<< HEAD
 ﻿initial value
 Second Value
+This is third value
+>>>>>>> 2ae9759 (Add third value to file.txt)
